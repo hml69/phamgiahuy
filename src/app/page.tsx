@@ -36,7 +36,7 @@ export default function ProfilePage() {
           </h1>
           <p className="text-gray-400 mt-2 text-lg">Web Developer</p>
           <p className="text-sm text-gray-500 mt-4 leading-relaxed">
-          Xin chào mình là Phạm Gia Huy, là một lập trình viên chuyên về php. Để liên hệ với mình hãy vào các trang mạng xã hội của mình qua đường link phía dưới nha.
+          Xin chào mình là Phạm Gia Huy, là một lập trình viên chuyên về PHP. Để liên hệ với mình hãy vào các trang mạng xã hội của mình qua đường link phía dưới nha.
           </p>
 
           {/* Social Links */}
